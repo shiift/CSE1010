@@ -1,0 +1,10 @@
+global HI_LEVEL
+global LO_LEVEL
+global HI_DURATION
+global LO_DURATION
+global SPACE_DURATION
+HI_LEVEL       = 0;
+LO_LEVEL       = 0;
+HI_DURATION    = 0.150;
+LO_DURATION    = 0.050;
+SPACE_DURATION = 0.050;
